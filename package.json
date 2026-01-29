@@ -1,7 +1,9 @@
 {
-  "name": "",
+  "name": "utm-source-detector",
+  "description": "A web tool to identify traffic sources from URLs and UTM parameters",
   "type": "module",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "license": "MIT",
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
@@ -9,6 +11,7 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@astrojs/sitemap": "^3.7.0",
     "astro": "^5.17.0"
   }
 }

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://utm-detector.jumax.dev/sitemap-index.xml
